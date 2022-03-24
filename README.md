@@ -1,4 +1,7 @@
 # GitHub新手教程
-粗略介绍GitHub的基本操作
-## 快速入门
-quickstart
+  粗略介绍GitHub的基本操作
+# 文件介绍
+  ## quickstart
+    github快速入门。
+  ## markdown
+    markdown（github上的一种易于阅读和编写的语法，用于格式化纯文本。）用法介绍。
