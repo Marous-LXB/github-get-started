@@ -61,3 +61,27 @@ git commit
     GitHub 支持将图像嵌入到您的议题、拉取请求、讨论、评论和 .md 文件中。 您可以从仓库显示图像、添加在线图像链接或上传图像。
    **提示**：想要显示仓库中的图像时，应该使用相对链接而不是绝对链接。
   
+  ## 列表
+    通过在一行或多行文本前面添加 - 或 * 可创建无序列表。
+    例：
+   - George Washington
+   - John Adams
+   - Thomas Jefferson
+    
+    要对列表排序，请在每行前面添加一个编号。
+  1. James Madison
+  2. James Monroe
+  3. John Quincy Adams
+
+  ## 嵌套列表
+    通过在一个列表项下面缩进一个或多个其他列表项，可创建嵌套列表。
+    要通过 GitHub 上的 web 编辑器或使用等宽字体的文本编辑器（例如 Atom）创建嵌套列表，您可以直观地对齐列表。 
+    在嵌套列表项的前面键入空格字符，直至列表标记字符（- 或 *）位于其上方条目中第一个文本字符的正下方。
+  1. first list item
+     - first nested list item
+       - second nested list item
+    
+  ## 任务列表
+    要创建任务列表，请在列表前加上 - 和 空格 ，后跟 [ ] 。要将任务标记为已完成，请使用 [x] 。
+ - [x] #739
+ - [ ] Add delight to the experience when all tasks are complete :tada:
