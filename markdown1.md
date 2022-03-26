@@ -85,3 +85,43 @@ git commit
     要创建任务列表，请在列表前加上 - 和 空格 ，后跟 [ ] 。要将任务标记为已完成，请使用 [x] 。
  - [x] #739
  - [ ] Add delight to the experience when all tasks are complete :tada:
+
+  ## 提及人员和团队
+    您可以在 GitHub 上提及人员或团队，方法是键入 @ 加上其用户名或团队名称。 这将触发通知并提请他们注意对话。 
+    如果您在编辑的评论中提及某人的用户名或团队名称，该用户也会收到通知。
+    例：
+   @Marous-LXB 对，就是我~
+    
+  ## 使用表情符号
+    通过键入 :EMOJICODE: 可在您的写作中添加表情符号。
+    例：
+   :wave:
+   
+  ## 段落
+    通过在文本行之间留一个空白行，可创建新段落。
+    
+  ## 脚注
+    您可以使用 [^ ] 为您的内容添加脚注。
+    注意：Markdown 中脚注的位置不会影响该脚注的呈现位置。 您可以在引用脚注后立即写脚注，脚注仍将呈现在 Markdown 的底部。
+    例：
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2]. 
+
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+  
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
+    
+  ## 忽略 Markdown 格式
+    您可以在Markdown格式符前加 \ 来忽视Markdown格式。
+    例：
+   \*这是在倾斜格式符前加\的效果\*
+   
+  ## 禁用 Markdown 渲染
+    当您查看Markdown文件时，您可以单击文件顶部的 <> 禁用Markdown渲染来查看文件的源码。
