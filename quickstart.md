@@ -32,4 +32,5 @@
    ![image](https://user-images.githubusercontent.com/82021888/160286457-7ff3228a-2dc1-491e-8695-889fe779da47.png)
     
     4、在跳出的对话框输入您的GitHub密码后成功删除该仓库。
+    注：请慎重删除仓库，一旦删除，无法恢复！！！
 
