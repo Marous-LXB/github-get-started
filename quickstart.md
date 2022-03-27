@@ -30,5 +30,6 @@
     2、单击Setting，点击General栏最下方 Delete this repository。
     3、在跳出的对话框输入要删除的仓库名确认删除。
    ![image](https://user-images.githubusercontent.com/82021888/160286457-7ff3228a-2dc1-491e-8695-889fe779da47.png)
+    
     4、在跳出的对话框输入您的GitHub密码后成功删除该仓库。
 
