@@ -25,3 +25,10 @@
     5、将当前的工作目录更改为您想要存储克隆目录的位置。
     6、键入 git clone，然后粘贴先前复制的 URL。 它将如下所示，使用您的 GitHub 用户名替换 YOUR-USERNAME：
     7、按 Enter 键。 将创建您的本地克隆。
+  ## 删除仓库
+    1、打开待删除仓库。
+    2、单击Setting，点击General栏最下方 Delete this repository。
+    3、在跳出的对话框输入要删除的仓库名确认删除。
+    ![图1](https://user-images.githubusercontent.com/82021888/160286255-46e6f421-72ec-43cf-b05f-02bbd21412b9.png)
+    4、在跳出的对话框输入您的GitHub密码后成功删除该仓库。
+
