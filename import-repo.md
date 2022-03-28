@@ -21,8 +21,10 @@
   ![图6](https://user-images.githubusercontent.com/82021888/160412877-fab994f2-4493-4d80-9503-9b878530d988.png)
   
   ## 4、等待上传完成，之后就可以在GitHub上看到上传的内容了。
+    注：文件过大可能导致上传失败！
   
-  ![图7](https://user-images.githubusercontent.com/82021888/160413314-0d2fb341-57d7-4123-bb3c-32fa8e5538d8.png)
+  ![图7](https://user-images.githubusercontent.com/82021888/160439310-7f2aa0cc-3558-4308-a485-aa2dbba4d26f.png)
+
 
   
 
