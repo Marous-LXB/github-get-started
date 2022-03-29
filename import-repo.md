@@ -12,7 +12,7 @@
   
     git init （初始化Git）
     git add . (将所有项目文件添加到缓存区)
-    git commit -m "备注信息" （增加备注）
+    git commit -m "备注信息" （压缩文件）
     git remote add origin https://github.com/Marous-LXB/STC8H-8A.git （关联GitHub上的仓库地址）
     git push -u origin master （将缓存区内容上传到GitHub仓库，弹出窗口后输入GitHub用户名密码确认）
     
